@@ -169,7 +169,7 @@ body.dark-mode {
     50% { border-color: var(--primary-light); }
 }
 
-.dark-mode @keyframes blink-caret {
+@keyframes blink-caret {
     from, to { border-color: transparent; }
     50% { border-color: var(--primary-dark); }
 }
